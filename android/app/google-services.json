@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302808254672",
+    "project_id": "learningdart-flutter-ed-32",
+    "storage_bucket": "learningdart-flutter-ed-32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302808254672:android:4c77c5dcd911618867b6d5",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302808254672-1e13ngklnldpfphfrel5udn47i37ghin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZSLDW9eLxRZwWShyoWW7DT03Q7bPV3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302808254672-1e13ngklnldpfphfrel5udn47i37ghin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
